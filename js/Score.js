@@ -1,18 +1,18 @@
 "use strict";
 
-var photoScore = function () {
+var PhotoScore = function () {
 	// private attributes and methods
 
 	// public methods
 }
 
-var pageScore = function () {
+var PageScore = function () {
 	// private attributes and methods
 
 	// public methods
 }
 
-var albumScore = function () {
+var AlbumScore = function () {
 	// private attributes and methods
 
 	// public methods
